@@ -36,7 +36,7 @@ The URL is also engineered to avoid detection — it uses a long redirect chain 
 
 ---
 
-## Example 3 — Fake Seller Note / Refund Scam
+## Example 3 — Paypal note
 
 **Classification: Phishing**
 
