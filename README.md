@@ -4,7 +4,7 @@
 **Program:** Future Interns — Cyber Security Fellowship
 **CIN:** FIT/MAR26/CS6617
 **Date:** March 2026
-**Task:** Task 2 — Phishing Email Detection & Awareness System
+**Task:** Task 2 Phishing Email Detection & Awareness System
 
 ---
 
