@@ -88,5 +88,5 @@ Always check the actual sender address, not just the display name. Hover over an
 
 ---
 
-*Task 2 — Future Interns Cyber Security Fellowship*
+
 *All samples collected from public phishing databases for educational purposes*
